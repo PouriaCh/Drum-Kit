@@ -3,7 +3,7 @@ This web app uses HTML, CSS and JavaScript. You can either click on each drum to
 <br> 
 This is how the main page looks like: 
 <tr>
-<img class="center" width=90%  src="images/Demo.PNG"
+<img class="center" style="width=90%"  src="images/Demo.PNG"
 </tr>
 
  
