@@ -4,5 +4,5 @@ I created this app using JavaScript. You can either click on each drum tool to m
 This is how the main page looks like:
 <br>
 <tr>
-<img class="center" width="600" src="images/Demo.png"/>
+<img class="center" width="1000" src="images/Demo.png"/>
 </tr>
